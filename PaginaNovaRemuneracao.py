@@ -11,7 +11,7 @@ class PaginaNova:
         self.url = url
         self.bot = webdriver.Firefox(executable_path='geckodriver.exe')
 
-    def abrir_navegador(self, login="wesleygurgel", senha="Bilubilu123@"):
+    def abrir_navegador(self, login="wesleygurgel", senha="tadoidoqueeuvoudeixar@"):
         driver = self.bot
         driver.get(self.url)
         driver.maximize_window()
