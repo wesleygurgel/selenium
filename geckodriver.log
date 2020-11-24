@@ -1,0 +1,1412 @@
+1605186218845	geckodriver	INFO	Listening on 127.0.0.1:51984
+1605186221936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilepJ8jxZ"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605186225145	Marionette	INFO	Listening on port 51993
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605186225660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605186242345	Marionette	INFO	Stopped listening on port 51993
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605186474654	geckodriver	INFO	Listening on 127.0.0.1:52216
+1605186477754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileiIeeOF"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605186480013	Marionette	INFO	Listening on port 52226
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605186480438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605186486145	Marionette	INFO	Stopped listening on port 52226
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605186495177	geckodriver	INFO	Listening on 127.0.0.1:52281
+1605186498265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileANCjzt"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605186500443	Marionette	INFO	Listening on port 52290
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605186500953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605186529720	Marionette	INFO	Stopped listening on port 52290
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605186770105	geckodriver	INFO	Listening on 127.0.0.1:52488
+1605186773211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile5SwOlv"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605186775241	Marionette	INFO	Listening on port 52498
+1605186775268	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16732, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1605186800338	Marionette	INFO	Stopped listening on port 52498
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605186840897	geckodriver	INFO	Listening on 127.0.0.1:52577
+1605186843975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilenZOd1P"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605186846154	Marionette	INFO	Listening on port 52589
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605186846638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605187031031	Marionette	INFO	Stopped listening on port 52589
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileRZTPcY"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605186892904	Marionette	INFO	Listening on port 52667
+1605186892933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605187028931	Marionette	INFO	Stopped listening on port 52667
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileS6WoLt"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605187010773	Marionette	INFO	Listening on port 52777
+1605187010847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605187027627	Marionette	INFO	Stopped listening on port 52777
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605187214085	geckodriver	INFO	Listening on 127.0.0.1:52971
+1605187217192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileEvIVLB"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605187219306	Marionette	INFO	Listening on port 52980
+1605187219361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605187340816	Marionette	INFO	Stopped listening on port 52980
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofiled4UBW3"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605187258713	Marionette	INFO	Listening on port 53049
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605187259096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605187339938	Marionette	INFO	Stopped listening on port 53049
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofile8rJ4T3"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605187308347	Marionette	INFO	Listening on port 53133
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605187308856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605187342471	geckodriver	INFO	Listening on 127.0.0.1:58932
+1605187350280	geckodriver	INFO	Listening on 127.0.0.1:58940
+1605187353385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileFFBWa7"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605187355498	Marionette	INFO	Listening on port 58949
+1605187355559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605187466352	geckodriver	INFO	Listening on 127.0.0.1:59044
+1605187469450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileBRB6gP"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605187471658	Marionette	INFO	Listening on port 59054
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605187472153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605188100314	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1605189604029	Marionette	INFO	Stopped listening on port 59054
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileazCJWg"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605189603016	Marionette	INFO	Listening on port 64628
+1605189603054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605190020513	Marionette	INFO	Stopped listening on port 64628
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile1Oz6TN"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605189885334	Marionette	INFO	Listening on port 64812
+1605189885814	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605190022049	Marionette	INFO	Stopped listening on port 64812
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605190037816	geckodriver	INFO	Listening on 127.0.0.1:64928
+1605190040916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilej5mh04"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605190043002	Marionette	INFO	Listening on port 64938
+1605190043081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605190272716	Marionette	INFO	Stopped listening on port 64938
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605190368135	geckodriver	INFO	Listening on 127.0.0.1:65139
+1605190371205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileS35DBN"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605190373454	Marionette	INFO	Listening on port 65148
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605190373888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605190409348	Marionette	INFO	Stopped listening on port 65148
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605190410797	geckodriver	INFO	Listening on 127.0.0.1:65210
+1605190413874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilestK0m8"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605190416171	Marionette	INFO	Listening on port 65220
+1605190416561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+1605190494732	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+1605190502715	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+1605190510692	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605191044827	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1605526487981	geckodriver	INFO	Listening on 127.0.0.1:53306
+1605526491070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileMvICdW"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605526493862	Marionette	INFO	Listening on port 53314
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605526494253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+1605526891547	geckodriver	INFO	Listening on 127.0.0.1:53496
+1605526894646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile9CeTQQ"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605526896912	Marionette	INFO	Listening on port 53504
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605526897322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+1605527514913	geckodriver	INFO	Listening on 127.0.0.1:58612
+1605527518008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile26ag0d"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605527520186	Marionette	INFO	Listening on port 58620
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605527520676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605527558093	Marionette	INFO	Stopped listening on port 58620
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605527559674	geckodriver	INFO	Listening on 127.0.0.1:58663
+1605527562752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilesdZPmI"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605527564805	Marionette	INFO	Listening on port 58671
+1605527564914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+1605527830175	Marionette	INFO	Stopped listening on port 58671
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileR4OSQl"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605527832158	Marionette	INFO	Listening on port 58721
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605527832483	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1605528460865	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1605528704115	Marionette	INFO	Stopped listening on port 58721
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605527858881	Marionette	INFO	Listening on port 58774
+1605527858976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+1605528671697	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+1605528679723	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605529187246	geckodriver	INFO	Listening on 127.0.0.1:59369
+1605529190337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileseQAo2"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605529192621	Marionette	INFO	Listening on port 59379
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605529193009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605529219900	Marionette	INFO	Stopped listening on port 59379
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605529256766	geckodriver	INFO	Listening on 127.0.0.1:59455
+1605529259847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile6PVWRL"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605529262044	Marionette	INFO	Listening on port 59465
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605529262516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605529273647	Marionette	INFO	Stopped listening on port 59465
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605529522935	geckodriver	INFO	Listening on 127.0.0.1:59650
+1605529526027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileqsrwzz"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605529528102	Marionette	INFO	Listening on port 59659
+1605529528186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605529569745	Marionette	INFO	Stopped listening on port 59659
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofilejNUVDV"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605529551260	Marionette	INFO	Listening on port 59731
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605529551740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605529564858	Marionette	INFO	Stopped listening on port 59731
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofilevs3arn"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605529564244	Marionette	INFO	Listening on port 59794
+1605529564337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605529569125	Marionette	INFO	Stopped listening on port 59794
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605529586662	geckodriver	INFO	Listening on 127.0.0.1:59856
+1605529589748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilehh5mE1"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605529591856	Marionette	INFO	Listening on port 59865
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605529591909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1605529601142	Marionette	INFO	Stopped listening on port 59865
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605529671032	geckodriver	INFO	Listening on 127.0.0.1:59971
+1605529674124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileQlCxMa"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605529676206	Marionette	INFO	Listening on port 59980
+1605529676286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605529686359	Marionette	INFO	Stopped listening on port 59980
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605529699255	geckodriver	INFO	Listening on 127.0.0.1:60042
+1605529702363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileUvZwq7"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605529704434	Marionette	INFO	Listening on port 60051
+1605529704530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605529709856	Marionette	INFO	Stopped listening on port 60051
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605529837259	geckodriver	INFO	Listening on 127.0.0.1:60169
+1605529840326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileF2ruXN"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605529842422	Marionette	INFO	Listening on port 60178
+1605529842482	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605529866480	Marionette	INFO	Stopped listening on port 60178
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605529897576	geckodriver	INFO	Listening on 127.0.0.1:60250
+1605529900670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileaFLP71"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605529902699	Marionette	INFO	Listening on port 60260
+1605529902725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605529935245	Marionette	INFO	Stopped listening on port 60260
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605529955182	geckodriver	INFO	Listening on 127.0.0.1:60339
+1605529958292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile1WTb0D"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605529960334	Marionette	INFO	Listening on port 60349
+1605529960457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605530060029	Marionette	INFO	Stopped listening on port 60349
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofile0mBUCD"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605530003220	Marionette	INFO	Listening on port 63562
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605530003752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605530059578	Marionette	INFO	Stopped listening on port 63562
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileDFFfoq"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605530026940	Marionette	INFO	Listening on port 63639
+1605530027040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605530059085	Marionette	INFO	Stopped listening on port 63639
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605530061322	geckodriver	INFO	Listening on 127.0.0.1:63713
+1605530064430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileb99RMy"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605530066534	Marionette	INFO	Listening on port 63723
+1605530066596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605530089852	Marionette	INFO	Stopped listening on port 63723
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605530979947	geckodriver	INFO	Listening on 127.0.0.1:49564
+1605530983045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileuUpAlG"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605530985144	Marionette	INFO	Listening on port 49572
+1605530985225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605531003071	Marionette	INFO	Stopped listening on port 49572
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605531181919	geckodriver	INFO	Listening on 127.0.0.1:49720
+1605531185014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileq9qN6P"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605531187081	Marionette	INFO	Listening on port 49729
+1605531187182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605531221197	Marionette	INFO	Stopped listening on port 49729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605531222287	geckodriver	INFO	Listening on 127.0.0.1:49801
+1605531225382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilehjlZRP"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605531227545	Marionette	INFO	Listening on port 49811
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605531228059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605531244984	Marionette	INFO	Stopped listening on port 49811
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Invalid port. Exiting...
+1605532141604	geckodriver	INFO	Listening on 127.0.0.1:50359
+1605532144698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile9C3cvv"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605532146797	Marionette	INFO	Listening on port 50368
+1605532146858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 5636, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1605532148329	Marionette	INFO	Stopped listening on port 50368
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Invalid port. Exiting...
+1605533110787	geckodriver	INFO	Listening on 127.0.0.1:50994
+1605533113881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile2isxxk"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605533116068	Marionette	INFO	Listening on port 51003
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605533116562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 98: Error: Connection closed, pending request to server0.conn0.child2/domnode269, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:274:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:94:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+
+1605533152208	Marionette	INFO	Stopped listening on port 51003
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605533153769	geckodriver	INFO	Listening on 127.0.0.1:51080
+1605533156856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileqj6aGD"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605533158985	Marionette	INFO	Listening on port 51089
+1605533159026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605533179949	Marionette	INFO	Stopped listening on port 51089
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605612005804	geckodriver	INFO	Listening on 127.0.0.1:52818
+1605612008908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilen0qarN"
+1605612024304	geckodriver	INFO	Listening on 127.0.0.1:52866
+1605612027371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileNOUpW9"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605612029611	Marionette	INFO	Listening on port 52875
+1605612030046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605612207382	Marionette	INFO	Stopped listening on port 52875
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605612215813	geckodriver	INFO	Listening on 127.0.0.1:53034
+1605612218898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilejHgdda"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605612221064	Marionette	INFO	Listening on port 53043
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605612221568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sistemas-hml.trt21.jus.br"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+1605612328291	Marionette	INFO	Stopped listening on port 53043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605613359624	geckodriver	INFO	Listening on 127.0.0.1:53705
+1605613362724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile3aQ8QT"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605613364967	Marionette	INFO	Listening on port 53715
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605613365413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605613395776	Marionette	INFO	Stopped listening on port 53715
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605613488308	geckodriver	INFO	Listening on 127.0.0.1:53831
+1605613491412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileHG1fG7"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605613493521	Marionette	INFO	Listening on port 53840
+1605613493596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605613514314	Marionette	INFO	Stopped listening on port 53840
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605614086719	geckodriver	INFO	Listening on 127.0.0.1:52044
+1605614089810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile0L8RFl"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605614091880	Marionette	INFO	Listening on port 52054
+1605614091995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605614296193	Marionette	INFO	Stopped listening on port 52054
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605614483172	geckodriver	INFO	Listening on 127.0.0.1:52317
+1605614486281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilezfjxav"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605614488489	Marionette	INFO	Listening on port 52326
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605614488986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605614519834	Marionette	INFO	Stopped listening on port 52326
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605614668280	geckodriver	INFO	Listening on 127.0.0.1:52511
+1605614671368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilem0sudc"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605614673859	Marionette	INFO	Listening on port 52522
+1605614674063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605614848374	Marionette	INFO	Stopped listening on port 52522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileP5kFWX"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605614818556	Marionette	INFO	Listening on port 52660
+1605614818610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605614845462	Marionette	INFO	Stopped listening on port 52661605614846042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile5bbTfK"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605614848402	Marionette	INFO	Listening on port 52732
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605614848711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605614868502	Marionette	INFO	Stopped listening on port 52732
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605615056638	geckodriver	INFO	Listening on 127.0.0.1:52936
+1605615059734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile6bWQIk"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605615061933	Marionette	INFO	Listening on port 52946
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605615062392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605615092686	Marionette	INFO	Stopped listening on port 52941605615094176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileNBysRm"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605615096165	Marionette	INFO	Listening on port 53030
+1605615096245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605615283238	Marionette	INFO	Stopped listening on port 53030
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofilebaypVJ"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605615282352	Marionette	INFO	Listening on port 53242
+1605615282412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605615406878	Marionette	INFO	Stopped listening on port 53241605615407162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilea8ybSR"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605615409329	Marionette	INFO	Listening on port 53365
+1605615409382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605615492903	Marionette	INFO	Stopped listening on port 53365
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileNJeaR5"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605615488994	Marionette	INFO	Listening on port 53464
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605615489501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1605615542942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileMu9f3X"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605615545070	Marionette	INFO	Listening on port 53553
+1605615545114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605615573741	Marionette	INFO	Stopped listening on port 53553
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofile2xPPIA"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605615571742	Marionette	INFO	Listening on port 53621
+1605615571791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605615663790	Marionette	INFO	Stopped listening on port 53621
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605615797353	geckodriver	INFO	Listening on 127.0.0.1:53833
+1605615800445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileVx2s0v"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605615802672	Marionette	INFO	Listening on port 53843
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605615803128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605615864672	Marionette	INFO	Stopped listening on port 53843
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605616282355	geckodriver	INFO	Listening on 127.0.0.1:53992
+1605616285420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilenWW71A"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605616287538	Marionette	INFO	Listening on port 54000
+1605616287590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605616391771	Marionette	INFO	Stopped listening on port 54000
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605616848434	geckodriver	INFO	Listening on 127.0.0.1:54135
+1605616851520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilec6lTYS"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605616853701	Marionette	INFO	Listening on port 54143
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605616854197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+1605616905592	geckodriver	INFO	Listening on 127.0.0.1:54187
+1605616908673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile06oRAb"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605616910848	Marionette	INFO	Listening on port 54195
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605616911351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+JavaScript error: https://www2.trt21.jus.br/Asp/transparencia/FormularioSolicitacao.asp#inicio, line 70: TypeError: document.getElementById(...) is null
+1605618590146	Marionette	INFO	Stopped listening on port 54195
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilexr4vN6"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605617884798	Marionette	INFO	Listening on port 56074
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605617885277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605618513531	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1605618589044	Marionette	INFO	Stopped listening on port 56074
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofile57traO"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605618534441	Marionette	INFO	Listening on port 65463
+1605618534488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605618583161	Marionette	INFO	Stopped listening on port 65463
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605618586318	geckodriver	INFO	Listening on 127.0.0.1:65526
+1605618589390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileYiKeCt"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605618591697	Marionette	INFO	Listening on port 65534
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605618592059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605618609918	Marionette	INFO	Stopped listening on port 65534
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605618612378	geckodriver	INFO	Listening on 127.0.0.1:61194
+1605618615477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileW5JYyM"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605618617653	Marionette	INFO	Listening on port 61202
+1605618618165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605698866334	geckodriver	INFO	Listening on 127.0.0.1:54608
+1605698869453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilesLlCIq"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605698873497	Marionette	INFO	Listening on port 54616
+1605698873673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605698874529	geckodriver	INFO	Listening on 127.0.0.1:54652
+1605698877599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileJcZbSh"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605698879750	Marionette	INFO	Listening on port 54662
+1605698880269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605698923300	geckodriver	INFO	Listening on 127.0.0.1:61187
+1605698926338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileIyl9Q7"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605698928579	Marionette	INFO	Listening on port 61195
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605698929012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605698957917	Marionette	INFO	Stopped listening on port 61195
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileNxyjOJ"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605698935058	Marionette	INFO	Listening on port 61243
+1605698935519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605698957129	Marionette	INFO	Stopped listening on port 61243
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605699032209	geckodriver	INFO	Listening on 127.0.0.1:61314
+1605699035312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofilenXl7QU"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605699037491	Marionette	INFO	Listening on port 61322
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605699037978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605699608010	Marionette	INFO	Stopped listening on port 61322
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WESLEY~1\\AppData\\Local\\Temp\\rust_mozprofileoETI3F"
+JavaScript error: mozilla.cfg, line 32: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605699043964	Marionette	INFO	Listening on port 61369
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605699044480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605699602016	Marionette	INFO	Stopped listening on port 61369
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
