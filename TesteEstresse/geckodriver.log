@@ -8,6 +8,7 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
 1606227646303	Marionette	WARN	TLS certificate errors will be ignored for this session
+<<<<<<< Updated upstream
 1606227751724	geckodriver	INFO	Listening on 127.0.0.1:60954
 1606227754780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Wesley\\AppData\\Local\\Temp\\rust_mozprofileDng465"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
@@ -277,6 +278,11 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1606230654251	Marionette	INFO	Listening on port 63743
 1606230654460	Marionette	WARN	TLS certificate errors will be ignored for this session
 1606230844773	Marionette	INFO	Stopped listening on port 63743
+=======
+1606228274391	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: uncaught exception: Timeout
+1606299809628	Marionette	INFO	Stopped listening on port 61686
+>>>>>>> Stashed changes
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
