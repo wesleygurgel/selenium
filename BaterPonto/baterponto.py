@@ -47,6 +47,6 @@ while verify == 2:
     verify = verificar_ponto()
     contador += 1
 
-ctypes.windll.user32.MessageBoxW(0, "Ponto Batido com Sucesso\nPode ir tomar seu cafézinho meu jovem",
+ctypes.windll.user32.MessageBoxW(0, "Ponto Batido com Sucesso\nPode ir tomar seu cafezinho meu jovem",
                                  "Ponto Eletrônico", 1)
 driver.close()
