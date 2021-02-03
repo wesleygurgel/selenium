@@ -1,3 +1,6 @@
+import datetime
+import getpass
+
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import Select
@@ -25,6 +28,22 @@ def verificar_ponto():
     return 2
 
 
+def data_hoje():
+    data = datetime.datetime.now()
+    dia_atual = data.day
+    mes_atual = data.month
+    ano_atual = data.year
+
+    return f'{dia_atual}-{mes_atual}-{ano_atual}'
+
+
+# INICIO DO CODIGO ---------------
+
+# CRIANDO MEU LOG FILE
+username = getpass.getuser()
+data_atual = data_hoje()
+log_file = open(f'{data_atual}.log', 'a')
+
 driver = webdriver.Chrome(executable_path='chromedriver.exe')
 driver.get("https://intranet.trt21.local/default.asp")
 time.sleep(1)
@@ -35,6 +54,7 @@ try:
     driver.execute_script("window.scrollBy(0,750)", "")
 
 except:
+    log_file.write(f'Algum problema aconteceu ao tentar bater o ponto para {username.upper()}')
     ctypes.windll.user32.MessageBoxW(0, "Provavelmente você não está logado na intra com o Google Chrome",
                                      "ERROR", 1)
 
@@ -47,6 +67,9 @@ while verify == 2:
     verify = verificar_ponto()
     contador += 1
 
+log_file.write(f'Ponto batido as {datetime.datetime.now()}\nUSUARIO: {username.upper()}')
 ctypes.windll.user32.MessageBoxW(0, "Ponto Batido com Sucesso\nPode ir tomar seu cafezinho meu jovem",
                                  "Ponto Eletrônico", 1)
 driver.close()
+log_file.close()
+exit(1)
