@@ -20,7 +20,16 @@ def verificar_ponto():
     driver.refresh()
     time.sleep(1)
     driver.execute_script("window.scrollBy(0,750)", "")
-    texto_input = driver.find_element(By.ID, 'RegistraPonto')
+    try:
+        texto_input = driver.find_element(By.ID, 'RegistraPonto')
+    except:
+        if driver.find_element(By.XPATH, "//*[contains(text(), 'permitido para registro do ponto.')]"):
+            ctypes.windll.user32.MessageBoxW(0, f"Amigo, ainda faltam {checar_hora()} minutos para o senhor bater o ponto\nEspere com o programa aberto, por favor!",
+                                             "Antes do horário permitido", 0)
+            tempo_espera = (checar_hora() * 60)
+            time.sleep(tempo_espera)
+            verificar_ponto()
+
 
     if texto_input.get_attribute('value') == "  REGISTRAR ENTRADA  ":
         texto_input.click()
@@ -35,6 +44,19 @@ def data_hoje():
     ano_atual = data.year
 
     return f'{dia_atual}-{mes_atual}-{ano_atual}'
+
+def checar_hora():
+    formato = '%H:%M'
+    atual = datetime.now()
+    atual = atual.strftime('%H:%M')
+    horario_esperado = '07:20'
+
+    data1 = datetime.strptime(atual, formato)
+    data2 = datetime.strptime(horario_esperado, formato)
+
+    diff = data2 - data1
+    diff_minutes = (diff.days * 24 * 60) + (diff.seconds / 60)
+    return diff_minutes
 
 
 # INICIO DO CODIGO ---------------
@@ -69,7 +91,7 @@ while verify == 2:
 
 log_file.write(f'Ponto batido as {datetime.datetime.now()}\nUSUARIO: {username.upper()}')
 ctypes.windll.user32.MessageBoxW(0, "Ponto Batido com Sucesso\nPode ir tomar seu cafezinho meu jovem",
-                                 "Ponto Eletrônico", 1)
+                                 "Ponto Eletrônico", 0)
 driver.close()
 log_file.close()
 exit(1)
