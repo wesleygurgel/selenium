@@ -27,6 +27,7 @@ def verificar_ponto():
             ctypes.windll.user32.MessageBoxW(0, f"Amigo, ainda faltam {checar_hora()} minutos para o senhor bater o ponto\nEspere com o programa aberto, por favor!",
                                              "Antes do horário permitido", 0)
             tempo_espera = (checar_hora() * 60)
+            print(f'Tempo de espera definido para: {tempo_espera} segundos')
             time.sleep(tempo_espera)
             verificar_ponto()
 
